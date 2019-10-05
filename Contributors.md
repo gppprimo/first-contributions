@@ -25,6 +25,7 @@
 - [Naezzin] (https://github.com/naezzin)
 - [Suresh Mangs] (https://github.com/sureshmangs)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
+- [Giuseppe Primo](https://github.com/gppprimo)
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Jason Griffis] (https://github.com/jgriffis1976)
 - [Alex Nickel] (https://github.com/Cattiva)
